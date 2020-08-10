@@ -15,6 +15,7 @@ github.egg-info/entry_points.txt
 github.egg-info/top_level.txt
 github/controllers/__init__.py
 github/controllers/base.py
+github/controllers/gh.py
 github/core/__init__.py
 github/core/exc.py
 github/core/version.py
@@ -22,3 +23,4 @@ github/ext/__init__.py
 github/plugins/__init__.py
 github/templates/__init__.py
 github/templates/command1.jinja2
+github/templates/__pycache__/__init__.cpython-38.pyc

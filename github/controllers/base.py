@@ -14,10 +14,10 @@ class Base(Controller):
         label = 'base'
 
         # text displayed at the top of --help output
-        description = 'A cli based tools for basic github platform operation like creating a new repo, branch etc.'
+        description = 'A CLI based tools for basic github platform operation like creating a new repo, branch etc. Now no need to leave CommandLine for github.'
 
         # text displayed at the bottom of --help output
-        epilog = 'Usage: github command1 --foo bar'
+        epilog = 'Usage: github command entity'
 
         # controller level arguments. ex: 'github --version'
         arguments = [
@@ -35,7 +35,7 @@ class Base(Controller):
 
 
     @ex(
-        help='example sub command1',
+        help='example sub-command usage',
 
         # sub-command level arguments. ex: 'github command1 --foo bar'
         arguments=[

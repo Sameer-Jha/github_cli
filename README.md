@@ -1,11 +1,12 @@
 # A cli based tools for basic github platform operation like creating a new repo, branch etc.
+## Now no need to leave command line for basic github tasks.
 
 ## Installation
 
 ```
-$ pip install -r requirements.txt
+$ sudo pip install -r requirements.txt
 
-$ pip install setup.py
+$ sudo python setup.py install
 ```
 
 ## Development
