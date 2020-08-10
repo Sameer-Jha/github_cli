@@ -35,26 +35,6 @@ $ make test
 ```
 
 
-### Releasing to PyPi
-
-Before releasing to PyPi, you must configure your login credentials:
-
-**~/.pypirc**:
-
-```
-[pypi]
-username = YOUR_USERNAME
-password = YOUR_PASSWORD
-```
-
-Then use the included helper function via the `Makefile`:
-
-```
-$ make dist
-
-$ make dist-upload
-```
-
 ## Deployments
 
 ### Docker
