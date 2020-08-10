@@ -4,7 +4,7 @@
 ## Installation
 
 ### Steps to be taken before Installtaion
-*** Set these environment variable***
+***Set these environment variable***
 >  1. set **GITAUTH_TOKEN** as github auth token. [visit this for help](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) with auth token generation
 >  2. set **GH_UNAME** as Github user name 
 
