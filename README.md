@@ -1,4 +1,5 @@
 # A cli based tools for basic github platform operation like creating a new repo, branch etc.
+## (Deprecated) I really enjoyed developing and using this, but now would recommend you to use the official gh cli tool.
 ## Now no need to leave command line for basic github tasks.
 
 ## Installation
